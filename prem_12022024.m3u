@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.online/epg.xml.gz"
-#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.app/icon/2580.png",Первый канал+
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.app/icon/2580.png",Первый канал+888
 http://str11.ottg.app/2580/video.m3u8?token=cd720c06bdf77cbc1e3b493a814f407d
 #EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="rossia1"  group-title="Общие" tvg-logo="http://pl.ottg.app/icon/2151.png",Россия 1 HD PREMIUM+
 http://str11.ottg.app/2151/video.m3u8?token=cd720c06bdf77cbc1e3b493a814f407d
